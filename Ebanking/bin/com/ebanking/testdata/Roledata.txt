@@ -1,0 +1,4 @@
+Rolename###RoleType###Results
+Cashierhdfcm###E
+Tellerhdfcm###E
+ClerkHdfcM###E

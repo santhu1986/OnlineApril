@@ -1,0 +1,4 @@
+Rolename###RoleType###Results
+Cashierhdfcm###E&&&&&New Role with id 1460 Created Sucessfully
+Tellerhdfcm###E&&&&&New Role with id 1461 Created Sucessfully
+ClerkHdfcM###E&&&&&New Role with id 1462 Created Sucessfully

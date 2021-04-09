@@ -1,0 +1,4 @@
+RoleName###RoleType###Results
+tellerabf###E
+Cashierabf###E
+managerabf###E
